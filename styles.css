@@ -1,0 +1,32 @@
+.title {
+  background: #e3f4ff;
+  margin:8px;
+  padding-left: 8px;
+  text-align: center;
+}
+
+.pasta, .burger, .donuts {
+  background: lightblue;
+  margin: 8px;
+  padding:16px 8px 16px 8px;
+  text-align: center;
+}
+
+button { 
+  background: #ffffff;
+  margin: auto;
+  display: block;
+  padding: 8px 24px;
+  font-size: 15px;
+  
+}
+
+.head {
+   border:5px white solid ;
+    
+}
+
+
+
+
+
