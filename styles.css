@@ -3,6 +3,7 @@
   margin:8px;
   padding-left: 8px;
   text-align: center;
+  font-family: Apple Chancery, cursive
 }
 
 .pasta, .burger, .donuts {
@@ -17,15 +18,9 @@ button {
   margin: auto;
   display: block;
   padding: 8px 24px;
-  font-size: 15px;
-  
+  font-size: 20px;
+  font-family: Apple Chancery, cursive
 }
-
-.head {
-   border:5px white solid ;
-    
-}
-
 
 
 
